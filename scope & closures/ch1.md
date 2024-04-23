@@ -57,7 +57,7 @@ Conozcamos el elenco de los actores que interactúan para procesar el programa `
 
 3. *Scope*: otro amigo del *Engine*, recolecta y mantiene una lista de todos los identificadores declarados (las variables), y aplica un conjunto estricto de reglas sobre cómo son accesibles para el código que se está ejecutando actualmente.
 
-Para ti que *entiendes perfectamente* cómo funciona JavaScript, necesitas comenzar a *pensar* como el *Engine* (y sus amigos) piensan, hazte las preguntas que ellos hacen, y responde esas preguntas de igual forma.
+Para ti que *entiendes perfectamente* cómo funciona JavaScript, necesitas comenzar a *pensar* como el *Engine* (y sus amigos) piensan, hazte las preguntas que ellos hacen, y responde esas preguntas de igual forma. 
 
 ### Back & Forth
 
