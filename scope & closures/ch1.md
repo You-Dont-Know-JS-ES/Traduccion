@@ -59,8 +59,6 @@ Conozcamos el elenco de los actores que interactúan para procesar el programa `
 
 Para ti que *entiendes perfectamente* cómo funciona JavaScript, necesitas comenzar a *pensar* como el *Engine* (y sus amigos) piensan, hazte las preguntas que ellos hacen, y responde esas preguntas de igual forma.
 
-For you to *fully understand* how JavaScript works, you need to begin to *think* like *Engine* (and friends) think, ask the questions they ask, and answer those questions the same.
-
 ### Back & Forth
 
 When you see the program `var a = 2;`, you most likely think of that as one statement. But that's not how our new friend *Engine* sees it. In fact, *Engine* sees two distinct statements, one which *Compiler* will handle during compilation, and one which *Engine* will handle during execution.
