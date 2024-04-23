@@ -47,15 +47,17 @@ Digamos, por el bien de la simplicidad, que cualquier trozo de JavaScript que es
 
 La manera en la que abordaremos el aprendizaje sobre el *scope* será pensando sus procesos en términos de una conversación. Pero, ¿*Quién* está teniendo esta conversación?
 
-### The Cast 
+### El elenco 
 
-Let's meet the cast of characters that interact to process the program `var a = 2;`, so we understand their conversations that we'll listen in on shortly:
+Conozcamos el elenco de los actores que interactúan para procesar el programa `var a = 2`, para que podamos entender su rol en la actuación que veremos en breve: 
 
-1. *Engine*: responsible for start-to-finish compilation and execution of our JavaScript program.
+1. *Engine*: es el responsable de inicio a fin de la compilación y ejecución del programa en JavaScript 
 
-2. *Compiler*: one of *Engine*'s friends; handles all the dirty work of parsing and code-generation (see previous section).
+2. *Compiler*: uno de los amigos del *Engine*; se encarga de todo el trabajo sucio de parsear y generar el código (ver sección previa).
 
-3. *Scope*: another friend of *Engine*; collects and maintains a look-up list of all the declared identifiers (variables), and enforces a strict set of rules as to how these are accessible to currently executing code.
+3. *Scope*: otro amigo del *Engine*, recolecta y mantiene una lista de todos los identificadores declarados (las variables), y aplica un conjunto estricto de reglas sobre cómo son accesibles para el código que se está ejecutando actualmente.
+
+Para ti que *entiendes perfectamente* cómo funciona JavaScript, necesitas comenzar a *pensar* como el *Engine* (y sus amigos) piensan, hazte las preguntas que ellos hacen, y responde esas preguntas de igual forma.
 
 For you to *fully understand* how JavaScript works, you need to begin to *think* like *Engine* (and friends) think, ask the questions they ask, and answer those questions the same.
 
