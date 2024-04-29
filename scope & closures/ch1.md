@@ -49,7 +49,7 @@ La manera en la que abordaremos el aprendizaje sobre el *scope* será pensando s
 
 ### El elenco 
 
-Conozcamos el elenco de los actores que interactúan para procesar el programa `var a = 2`, para que podamos entender su rol en la actuación que veremos en breve: 
+Conozcamos el elenco de los actores que interactúan para procesar el programa `var a = 2;`, para que podamos entender su rol en la actuación que veremos en breve: 
 
 1. *Engine*: es el responsable de inicio a fin de la compilación y ejecución del programa en JavaScript 
 
